@@ -1,5 +1,15 @@
+
 Big O Notation - 20mins
+https://www.youtube.com/watch?v=BgLTDT03QtU&ab_channel=NeetCode
+
 Insertion Sort - 10mins
+https://www.youtube.com/watch?v=R_wDA-PmGE4&t=255s
+
 Selection Sort - 10mins
+https://www.youtube.com/watch?v=ee80YmiaSVQ
+
 Quick Sort - 15mins
+https://www.youtube.com/watch?v=9KBwdDEwal8
+
 Merge Sort - 15mins
+https://www.youtube.com/watch?v=cVZMah9kEjI&t=320s
