@@ -1,0 +1,11 @@
+O(1): constant time, doesn't vary with size, most efficient
+O(n): iterating through array
+O(n^2): iterating through multi-dimensional array
+O(n^3): three nested loops
+O(log(n)): binary search
+O(nlog(n)): merge sort & built in sort functions
+O(2^n): for recursion, fibonaci
+O(n^0.5): to get factors of numbers
+O(n!): for permutations, very inefficent
+
+O(1) < O(log(n)) < O(n^0.5) < O(n) < O(nlog(n)) < O(n^2) < O(n^3)< O(2^n) < O(n!)
