@@ -1,0 +1,5 @@
+Big O Notation - 20mins
+Insertion Sort - 10mins
+Selection Sort - 10mins
+Quick Sort - 15mins
+Merge Sort - 15mins
