@@ -10,7 +10,7 @@ public int[] selectionSort(int arr[]){
 
         // Swap the found minimum element with the first element
         int temp = arr[min_idx];
-        arr[min_idx] = arr[i];
+        arr[min_idx] = arr[i]; 
         arr[i] = temp;
 	}
     return arr;
